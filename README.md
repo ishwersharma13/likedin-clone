@@ -1,8 +1,7 @@
-<h1 align="center">LinkedIn Clone</h1>
+<h1 align="center">LinkedIn Clone
+  
+  ![download (1)](https://github.com/ishwersharma13/likedin-clone/assets/103954615/4357f73b-762e-49b1-9989-c767c61999e5)
 
-<p align="center">
-  <img src="linkedin-clone.png" alt="LinkedIn Clone" width="500">
-</p>
 
 <p align="center">
   A responsive and feature-rich LinkedIn clone built with React, Node.js, and MongoDB.
