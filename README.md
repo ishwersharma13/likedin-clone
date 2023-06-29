@@ -8,6 +8,11 @@
   A responsive and feature-rich LinkedIn clone built with React, Node.js, and MongoDB.
 </p>
 
+## Live Demo
+
+https://649d1b4ccfdb2b39ab82fe1b--linkedinishwer.netlify.app/
+
+
 ## Features
 
 - User authentication and authorization
